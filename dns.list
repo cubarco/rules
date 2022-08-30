@@ -1,3 +1,4 @@
 DOMAIN,dns.google
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN,dns-unfiltered.adguard.com
+DOMAIN,doh.opendns.com
