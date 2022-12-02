@@ -2,5 +2,5 @@ DOMAIN-SUFFIX,plex.direct
 DOMAIN-KEYWORD,parsec
 IP-CIDR,52.86.26.213/32
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,cdn.hklive.tv
+DOMAIN-SUFFIX,hklive.tv
 DOMAIN-SUFFIX,hkanime.com
